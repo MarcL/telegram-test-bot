@@ -2,7 +2,7 @@
 
 A test telegram bot which is deployed to Vercel. See my blog post on it:
 
-[marclittlemore.com/serverless-telegram-chatbot-vercel/](https://marclittlemore.com/serverless-telegram-chatbot-vercel/)
+[https://marclittlemore.com/serverless-telegram-chatbot-vercel](https://marclittlemore.com/serverless-telegram-chatbot-vercel/)
 
 ## Installing
 
