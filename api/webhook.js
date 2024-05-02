@@ -1,7 +1,3 @@
-// https://github.com/yagop/node-telegram-bot-api/issues/319#issuecomment-324963294
-// Fixes an error with Promise cancellation
-process.env.NTBA_FIX_319 = 'test';
-
 // Require our Telegram helper package
 const TelegramBot = require('node-telegram-bot-api');
 
